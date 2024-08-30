@@ -1,4 +1,6 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode + Description List
-ZCZC WEEK0 10 L09 Weekly Assignments
+ZCZC W00 5 L03 GitHub related
+ZCZC W00 5 L04 GitHub Pages related
+ZCZC W00 10 L09 Weekly Assignments
