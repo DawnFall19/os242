@@ -9,3 +9,4 @@ ZCZC W00 100 L02 Offline Class
 ZCZC W00 120 L05 Quiz Studying
 ZCZC W00 4 L05 Quiz
 ZCZC W01 100 L02 Offline Class
+ZCZC W01 150 L09 Weekly Assignments
