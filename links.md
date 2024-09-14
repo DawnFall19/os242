@@ -21,11 +21,15 @@ permalink: LINKS/
 * [Linux Crash Course - Easy Terminal Commands for Inspecting Hardware](https://youtu.be/oGyJr-iUwt8?si=59V2boc0XfmlFekg){:target="_blank"} ---
 Some easy-to-use commands you can use to inspect hardware. 
 These commands will help you list PCI devices, view information about your CPU, and more.
+* [Generate GPG Key](https://doit.vlsm.org/048.html){:target="_blank"} ---
+  How to generate GPG Key for encryption
+* [Backup SSH and GPG Keys](https://demos.vlsm.org/W02-11.html){:target="_blank"} ---
+  Always backup everything in case something went wrong with the original data in the future
 * [Operating Systems Programming Forum](https://scele.cs.ui.ac.id/mod/forum/view.php?id=168703){:target="_blank"} ---
   General questions or problems should be asked here
 * [Lecturer E-mail](rms46@ui.ac.id){:target="_blank"} ---
   Alternate solution if the forum didn't help
 <br>
 <br>
-#### REV: Fri 06 Sep 2024 18:30
+#### REV: SAT 14 Sep 2024 11:56
 <hr>
