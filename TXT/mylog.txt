@@ -1,6 +1,14 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode + Description List
+ZCZC W03 100 L82 Slide Self-Review
+ZCZC W03 100 L02 Offline Class
+ZCZC W03 120 L09 Weekly Assignments
+ZCZC W03 120 L82 Slide Self-Review
+ZCZC W03 50 L08 Weekly Assignments Discussion
+ZCZC W03 20 L01 Forum Reviewing
+ZCZC W03 120 L06 GSGS About Weekly Topics
+ZCZC W03 100 L06 GSGS C Language Syntax 
 ZCZC W02 100 L02 Offline Class
 ZCZC W02 100 L02 Offline Class
 ZCZC W02 120 L05 Quiz Studying

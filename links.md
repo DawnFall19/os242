@@ -24,7 +24,13 @@ These commands will help you list PCI devices, view information about your CPU, 
 * [Generate GPG Key](https://doit.vlsm.org/048.html){:target="_blank"} ---
   How to generate GPG Key for encryption
 * [Backup SSH and GPG Keys](https://demos.vlsm.org/W02-11.html){:target="_blank"} ---
-  Always backup everything in case something went wrong with the original data in the future
+  Always backup everything in case something went wrong with the original data in the future.
+* [Create Extra Virtual Disk](https://demos.vlsm.org/W03-02.html){:target="_blank"} ---
+  Creating and adding a new virtual disk for debian.
+* [Neso Academy](https://www.youtube.com/@nesoacademy){:target="_blank"} ---
+  One of the best Youtube channel for computer science students, providing all lectures on all courses including Operating System.
+* [DawnFall19 OS Repository](https://github.com/DawnFall19/os242){:target="_blank"} ---
+  My Operating System GitHub repository in case someone needs a reference, having neither error, bug, trouble, nor ATTN (except for forgetting to update mylog.txt heheh)
 * [Operating Systems Programming Forum](https://scele.cs.ui.ac.id/mod/forum/view.php?id=168703){:target="_blank"} ---
   General questions or problems should be asked here
 * [Lecturer E-mail](rms46@ui.ac.id){:target="_blank"} ---
