@@ -30,7 +30,9 @@ These commands will help you list PCI devices, view information about your CPU, 
 * [Neso Academy](https://www.youtube.com/@nesoacademy){:target="_blank"} ---
   One of the best Youtube channel for computer science students, providing all lectures on all courses including Operating System.
 * [DawnFall19 OS Repository](https://github.com/DawnFall19/os242){:target="_blank"} ---
-  My Operating System GitHub repository in case someone needs a reference, having neither error, bug, trouble, nor ATTN (except for forgetting to update mylog.txt heheh)
+  My Operating System GitHub repository in case someone needs a reference, having neither error, bug, trouble, nor ATTN (except for forgetting to update mylog.txt heheh).
+* [How to Compile TLPI](https://demos.vlsm.org/W04-03.html){:target="_blank"} ---
+  TLPI compiling tutorial.
 * [Operating Systems Programming Forum](https://scele.cs.ui.ac.id/mod/forum/view.php?id=168703){:target="_blank"} ---
   General questions or problems should be asked here
 * [Lecturer E-mail](rms46@ui.ac.id){:target="_blank"} ---
