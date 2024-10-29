@@ -1,6 +1,14 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode + Description List
+ZCZC W06 100 L02 Offline Class
+ZCZC W06 100 L82 Slide Self-Review
+ZCZC W06 100 L02 Offline Class
+ZCZC W06 100 L82 Slide Self-Review
+ZCZC W06 150 L09 Weekly Assignments
+ZCZC W06 120 L05 Quiz Studying
+ZCZC W06 8 L05 Quiz
+ZCZC W06 100 L06 GSGS About malloc and mmap
 ZCZC W05 100 L02 Offline Class
 ZCZC W05 100 L82 Slide Self-Review
 ZCZC W05 100 L02 Offline Class
