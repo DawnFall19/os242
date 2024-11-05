@@ -37,6 +37,8 @@ These commands will help you list PCI devices, view information about your CPU, 
   Every device has different lower bound about how low can the virtual machine memory be set before getting into panic mode.
 * [Fork() and Shared Memory](https://demos.vlsm.org/W06-03.html){:target="_blank"} ---
   One of the crucial assignments in week 6.
+* [Synchronization](https://demos.vlsm.org/W07-03.html){:target="_blank"} ---
+  Cool name for an assignment and this is the core of Week 7 Assignments.
 * [Operating Systems Programming Forum](https://scele.cs.ui.ac.id/mod/forum/view.php?id=168703){:target="_blank"} ---
   General questions or problems should be asked here.
 * [Lecturer E-mail](rms46@ui.ac.id){:target="_blank"} ---
