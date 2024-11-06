@@ -39,6 +39,8 @@ These commands will help you list PCI devices, view information about your CPU, 
   One of the crucial assignments in week 6.
 * [Synchronization](https://demos.vlsm.org/W07-03.html){:target="_blank"} ---
   Cool name for an assignment and this is the core of Week 7 Assignments.
+* [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/12.2/){:target="_blank"} ---
+  Chapter 1-5 for week 8, 6-7 for week 9, 8 for week 10.
 * [Operating Systems Programming Forum](https://scele.cs.ui.ac.id/mod/forum/view.php?id=168703){:target="_blank"} ---
   General questions or problems should be asked here.
 * [Lecturer E-mail](rms46@ui.ac.id){:target="_blank"} ---
